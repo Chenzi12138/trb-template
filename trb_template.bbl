@@ -1,0 +1,28 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+
+\bibitem[{{Transportation Research Board}(2012)}]{TRBGuide}
+{Transportation Research Board}, \emph{{Information for Authors: a guide for
+  preparing and submitting manuscripts for presentation at the TRB Annual
+  Meeting and for Publication in TRB's Journal}}. Washington, D.C., 2012.
+
+\bibitem[{Bierlaire(2003)}]{Bierlaire2003}
+Bierlaire, M., {BIOGEME: A free package for the estimation of discrete choice
+  models.} In \emph{3rd Swiss Transportation Research Conference}, Ascona,
+  Switzerland, 2003.
+
+\bibitem[{Bierlaire(2008)}]{Bierlaire2008}
+Bierlaire, M., \emph{{An Introduction to BIOGEME Version 1.6}}, 2008.
+
+\bibitem[{Garrow et~al.(2009)Garrow, Bodea, and Lee}]{Garrow2009}
+Garrow, L.~A., T.~D. Bodea, and M.~Lee, {Generation of synthetic datasets for
+  discrete choice analysis}. \emph{Transportation}, Vol.~37, No.~2, 2009, pp.
+  183--202.
+
+\bibitem[{Koppelman and Garrow(2005)}]{Koppelman2005}
+Koppelman, F.~S. and L.~A. Garrow, {Efficiently Estimating Nested Logit Models
+  with Choice-Based Samples: Example Applications}. \emph{Transportation
+  Research Record, Journal of the Transportation Research Board}, Vol. 1921,
+  No.~1, 2005, pp. 63--69.
+
+\end{thebibliography}
