@@ -35,10 +35,3 @@ The file name of the primary TeX file (e.g., `trb_template.tex`) is used for cal
 change that **trb_template** to the new file name you choose to use for your `.tex` file.  For example, if your TeX file name is **main.tex**, then Line 194 of your `trbunofficial.cls` file should start with 
 
     Word Count: \quickwordcount{main}~words
-
-### Texts not counted toward total word count
-Note that the current version of this template does not count `\author{}` on the title page.  It also does not count texts in the references.  Please be aware and use caution when you are approaching the word limit.
-
-
-# Overleaf
-This template has been published on Overleaf, and it can be found here: https://www.overleaf.com/latex/templates/transportation-research-board-trb-latex-template/jkfndnnkkksw
