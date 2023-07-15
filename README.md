@@ -1,4 +1,4 @@
-# TRB_LaTeX_tex
+# TRB_LaTeX
 A LaTeX template for Transportation Research Board Annual Meeting papers.
 
 This is a light version of the former TRB LaTeX [template](https://github.com/chiehrosswang/TRB_LaTeX_tex). A warning of ``"Package mathptmx Warning: There are no bold math fonts on input line xxx"`` may appear during compilation in previous version. We use the following command to eliminate this warning:
